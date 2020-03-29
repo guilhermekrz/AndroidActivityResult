@@ -11,7 +11,6 @@ import com.brokoli.activityresult.ActivityResult
 import com.brokoli.activityresult.R
 import kotlinx.android.synthetic.main.activity_a.*
 
-// TODO: https://developer.android.com/training/basics/intents/result#separate
 class ActivityA : ComponentActivity() {
 
     private lateinit var controller : ActivityAController
